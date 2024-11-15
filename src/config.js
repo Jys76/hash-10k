@@ -26,13 +26,10 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 10000,
     layersOrder: [
-      { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "layer1" },
+      { name: "layer2" },
+      { name: "layer3" },
+      { name: "layer4" },
     ],
   },
 ];
